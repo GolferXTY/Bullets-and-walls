@@ -1,2 +1,2 @@
-# Bullets-and-walls
-This is the project where the bullet hits the wall.
+# p5.play-boilerplate
+Boiler plate for p5.play
